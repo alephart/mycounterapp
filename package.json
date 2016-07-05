@@ -5,10 +5,12 @@
     "start": "meteor run"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0"
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0"
   },
   "version": "1.0.0",
-  "description": "Un contador que no hacce nada\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[e\u001b[C\u001b[C\u001b[C\u001b[C nada",
+  "description": "Un contador que no hace nada",
   "main": "main.js",
   "author": "mediapps co",
   "license": "ISC"
